@@ -42,11 +42,11 @@ The interface was created with WPF and XAML.
 
 ### Main Interface
 
-![NetworkMonitor Main Interface](NetworkMonitor/screenshots/networkmonitorDesign.png)
+![NetworkMonitor Main Interface](screenshots/networkmonitorDesign.png)
 
 ### Ping Test and Network Scan
 
-![NetworkMonitor Running](NetworkMonitor/screenshots/networkmonitorCompiled.png)
+![NetworkMonitor Running](screenshots/networkmonitorCompiled.png)
 
 ## Author
 
