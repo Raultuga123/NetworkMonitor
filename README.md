@@ -40,7 +40,13 @@ The interface was created with WPF and XAML.
 
 ## Screenshot
 
-A screenshot of the application will be added here.
+### Main Interface
+
+![NetworkMonitor Main Interface](NetworkMonitor/screenshots/networkmonitorDesign.png)
+
+### Ping Test and Network Scan
+
+![NetworkMonitor Running](NetworkMonitor/screenshots/networkmonitorCompiled.png)
 
 ## Author
 
