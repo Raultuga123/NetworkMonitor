@@ -53,3 +53,5 @@ The interface was created with WPF and XAML.
 **Raul Daniel Boiciuc**
 
 IT Technician | Junior Developer 
+
+[LinkedIn](https://www.linkedin.com/in/raul-boiciuc-1549411a9/)
